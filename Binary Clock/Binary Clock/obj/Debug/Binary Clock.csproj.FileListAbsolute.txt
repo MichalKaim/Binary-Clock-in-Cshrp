@@ -1,0 +1,10 @@
+C:\Users\kaimi\source\repos\Binary Clock\Binary Clock\bin\Debug\Binary Clock.exe.config
+C:\Users\kaimi\source\repos\Binary Clock\Binary Clock\bin\Debug\Binary Clock.exe
+C:\Users\kaimi\source\repos\Binary Clock\Binary Clock\bin\Debug\Binary Clock.pdb
+C:\Users\kaimi\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary Clock.csprojAssemblyReference.cache
+C:\Users\kaimi\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary_Clock.Properties.Resources.resources
+C:\Users\kaimi\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary Clock.csproj.GenerateResource.cache
+C:\Users\kaimi\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary Clock.csproj.CoreCompileInputs.cache
+C:\Users\kaimi\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary Clock.exe
+C:\Users\kaimi\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary Clock.pdb
+C:\Users\kaimi\source\repos\Binary Clock\Binary Clock\obj\Debug\Binary_Clock.Binary.resources
