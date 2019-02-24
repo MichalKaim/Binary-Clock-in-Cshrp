@@ -54,17 +54,25 @@ namespace Binary_Clock
         private void checkHour()
         {
 
-            if (czas.Hour > 20)
+            if (czas.Hour >= 20)
             {
                 h20.Visible = false;
                 h20O.Visible = true;
             }
-            else if (czas.Hour > 10)
+            else if (czas.Hour >= 10)
             {
                 h20O.Visible = false;
                 h20.Visible = true;
                 h10.Visible = false;
                 h10O.Visible = true;
+            }
+            else
+            {
+                h10O.Visible = false;
+                h20O.Visible = false;
+
+                h10.Visible = true;
+                h20.Visible = true;
             }
 
             switch (czas.Hour % 10)
@@ -599,6 +607,11 @@ namespace Binary_Clock
         }
 
         private void pictureBox5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }

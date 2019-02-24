@@ -605,6 +605,7 @@
             this.Controls.Add(this.s08);
             this.Name = "Form1";
             this.Text = "Binary Clock";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.h20O)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.h10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.h20)).EndInit();
